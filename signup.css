@@ -1,0 +1,109 @@
+@charset "UTF-8";
+header{
+    border: 1px solid;
+    border-color: #ffffff;
+    box-shadow:2px 2px lightgray;
+}
+body{
+    padding-left: 10em;
+    padding-right: 10em;
+}
+h1{
+    display: inline;
+}
+#ca{
+    color: #B60C06;
+}
+#doc{
+    color: #229DE8;
+}
+#H{
+    position: absolute;
+    top: 2em;
+    left: 20cm;
+    color: #229DE8;
+}
+#A{
+    position: absolute;
+    top: 2em;
+    left: 23cm;
+    color: #229DE8;
+}
+#F{
+    position: absolute;
+    top: 2em;
+    left: 25cm;
+    color: #229DE8;
+}
+#C{
+    position: absolute;
+    top: 2em;
+    left: 27cm;
+    color: #229DE8;
+}
+#small{
+    color: gray;
+}
+#welcome{
+    color: #229DE8;
+    padding-left: 12em;
+}
+#terms{
+    color: #229DE8;
+}
+#signup{
+    background-color: #229DE8;
+    padding: 0.5em 3em 0.5em 3em;
+    color: #ffffff;
+}
+#shift{
+    padding-left: 25em;
+}
+footer{
+    background-color: #229DE8;
+    padding-bottom: 3em;
+    border:#229DE8;
+    border-radius: 2em 2em 0em 0em;
+}
+#about{
+    padding-left: 2em;
+    word-spacing: 2em;
+    color: #FFFFFF;
+}
+#foot{
+    padding-top: 5em;
+}
+#date{
+    color: #FFFFFF;
+}
+#logo{
+    padding-left: 15em;
+    padding-right: 15em;
+}
+#box{
+    border-top: 0px solid #FFFFFF;
+    border-left: 0px solid #FFFFFF;
+    border-bottom-color: gray;
+    width: 30em;
+    height: 3em;
+}
+#firstname{
+    position: absolute;
+    top: 10.5em;
+    
+}
+#lastname{
+    position: absolute;
+    top: 10.3em;
+    left: 40em;
+}
+#email{
+    position: absolute;
+    top: 14.3em;
+    left: 40em;
+}
+#confirmpassword{
+    position: absolute;
+    top: 18.3em;
+    left: 40em;
+}

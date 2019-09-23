@@ -1,0 +1,144 @@
+@charset "UTF-8";
+header{
+    border: 1px solid;
+    border-color: #ffffff;
+    box-shadow:2px 2px lightgray;
+}
+body{
+    padding-left: 5em;
+}
+h1{
+    display: inline;
+}
+a:hover {
+    color: #B60C06;
+}
+#H{
+    position: absolute;
+    top: 2em;
+    left: 20cm;
+    color: #229DE8;
+}
+#A{
+    position: absolute;
+    top: 2em;
+    left: 23cm;color: 
+    #229DE8;
+}
+#F{
+    position: absolute;
+    top: 2em;
+    left: 25cm;
+    color: #229DE8;
+}
+#C{
+    position: absolute;
+    top: 2em;
+    left: 27cm;color: #229DE8;
+}
+#S{
+    position: absolute;
+    top: 2em;
+    left: 30cm;
+    color: #229DE8;
+}
+#S2{
+    position: absolute;
+    top: 2em;
+    left: 31.3cm;
+    color: #229DE8;
+}
+
+#doc #call{
+    float: left;
+}
+#ca{
+    color: #B60C06;
+}
+#our{
+    color: #229DE8;
+    font-size: 300%;
+}
+#started{
+    color:gray;
+    padding-bottom: 2em;
+    font-size: 120%
+}
+#bigdiv{
+    border: 1px solid;
+    width: 5cm;
+    position: absolute;
+    top: 200px;
+    margin-top: 1cm;
+    list-style-image: url(images/tick.png)
+}
+#smalldiv{
+border-radius: 0em 0em 6em 6em;
+background-color: #229DE8;
+padding-bottom: 1em;
+color: #ffffff;
+padding-left: 1em;
+padding-right: 1em;
+}
+#ngn{
+    text-align: center;
+}
+#bigdiv2{
+    border: 1px solid;
+    width: 5cm;
+    position: absolute;
+    top:200px;
+    left: 8cm;
+    margin-top: 1cm;
+    list-style-image: url(images/tick.png)
+}
+#number{
+    color: #B60C06;
+}
+#words{
+    color: grey;
+}
+#smalldiv2{
+border-radius: 0em 0em 6em 6em;
+background-color: #229DE8;
+padding-bottom: 1em;
+color: #ffffff;
+padding-left: 1em;
+padding-right: 1em;
+}
+#get{
+    color: #229DE8;
+    text-align: center;
+    border: 1px solid;
+    border-bottom: #ffffff;
+    border-left: #ffffff;
+    border-right: #ffffff;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+#ngn{
+    text-align: center;
+}
+footer{
+    position: absolute;
+    top: 15cm;
+    background-color: #229DE8;
+    padding-bottom: 3em;
+    border:#229DE8;
+    border-radius: 2em 2em 0em 0em;
+    width: 30cm;
+}
+#about{
+    position: absolute;
+    top: 0.5em;
+    padding-left: 2em;
+    word-spacing: 2em;
+    color: #FFFFFF;
+}
+#date{
+    color: #FFFFFF;
+}
+#logo{
+    padding-left: 35em;
+    padding-right: 22em;
+}

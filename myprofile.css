@@ -1,0 +1,70 @@
+@charset "UTF-8";
+header{
+    border: 1px solid;
+    border-color: #ffffff;
+    box-shadow:2px 2px lightgray;
+    padding-left: 5em;
+    padding-right: 5em;
+}
+main{
+    padding-left: 5em;
+    padding-right: 5em;
+}
+#ca{
+    color: #B60C06;
+}
+#doc{
+    color: #229DE8;
+}
+h1{
+    display: inline;
+}
+#notification{
+    position:absolute;
+    top: 1.5em;
+    right: 8em;
+    color: gray;
+}
+#bd{
+    position: absolute;
+    top: 1.5em;
+    right: 4em;
+    color: #229DE8;
+    border: 1px solid;
+    padding:  0.2em 0.2em 0.2em 0.2em;
+    border-radius: 2em 2em 2em 2em;
+    box-shadow: 3px lightgray;
+}
+#box{
+    border-top: 0px solid #FFFFFF;
+    border-left: 0px solid #FFFFFF;
+    border-bottom-color: gray;
+    width: 30em;
+    height: 3em;
+    color: #229DE8;
+}
+#small{
+    color: grey;
+}
+#myprofile{
+    color: grey;
+    padding-top: 3em;
+}
+#lastname{
+    position: absolute;
+    top: 10em;
+    left: 40em;
+}
+#email{
+    position: absolute;
+    top: 15em;
+    left:40em;
+}
+#reset{
+    width: 7em;
+}
+#submit{
+    width: 7em;
+    background-color: #229DE8;
+    color: #FFFFFF;
+}
